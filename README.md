@@ -11,7 +11,14 @@
 
 - Student based in the Philippines  
 - Passionate about **graphic design & visual identity systems**  
-- Currently focused on improving my creative + technical skills and tech leadership 
+- Currently focused on improving my creative + technical skills and tech leadership
+
+## 🧭 Experience & Involvement
+
+- 🎨 Active in multiple tech and creative organizations focused on UI/UX, design systems, and community development  
+- 🧑‍💻 Roles include **Graphic Designer, UI/UX Cadet, Creative Member, Executive Officer, Club Co-Lead** across student tech communities  
+- 📈 Experienced in designing campaigns, managing creative pipelines, and improving organizational branding systems  
+- 🤝 Strong collaboration across cross-functional teams (design, tech, and leadership)
 
 ## 🧰 Tech & Tools
 
@@ -37,6 +44,12 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
+## 🏆 Highlights
+
+- 🥇 Multiple **1st Place Infographics Competition awards** (science & division-level competitions)  
+- 🚀 Contributed to community growth, onboarding, and event marketing initiatives  
+- 🎨 Built consistent branding systems for university organizations and tech communities
 
 ## 📫 Connect With Me
 
